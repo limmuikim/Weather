@@ -1,0 +1,6 @@
+{
+  "name": "SG Air Quality & Haze Monitor",
+  "description": "Real-time Singapore PSI and PM2.5 air quality monitoring with NEA data, dynamic regional trend charts, location auto-detection, and adaptive animated haze weather effects.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
